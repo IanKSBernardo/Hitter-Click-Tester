@@ -23,7 +23,7 @@ body, html, #root {
     width: 90%;
     height: 90%;
     background-color: #fff1;
-    border: 10px dotted #fff1;
+    outline: 7px dotted #fff1;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,5 +39,12 @@ body, html, #root {
   .click-area h1 {
     color: #fff2;
     font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .modal-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
