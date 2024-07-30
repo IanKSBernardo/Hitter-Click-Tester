@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Hitter-Click-Tester/static/css/main.1f99cae6.css",
-    "main.js": "/Hitter-Click-Tester/static/js/main.dd5b6e63.js",
+    "main.css": "/Hitter-Click-Tester/static/css/main.7b818d1b.css",
+    "main.js": "/Hitter-Click-Tester/static/js/main.6f9a1451.js",
     "index.html": "/Hitter-Click-Tester/index.html",
-    "main.1f99cae6.css.map": "/Hitter-Click-Tester/static/css/main.1f99cae6.css.map",
-    "main.dd5b6e63.js.map": "/Hitter-Click-Tester/static/js/main.dd5b6e63.js.map"
+    "main.7b818d1b.css.map": "/Hitter-Click-Tester/static/css/main.7b818d1b.css.map",
+    "main.6f9a1451.js.map": "/Hitter-Click-Tester/static/js/main.6f9a1451.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f99cae6.css",
-    "static/js/main.dd5b6e63.js"
+    "static/css/main.7b818d1b.css",
+    "static/js/main.6f9a1451.js"
   ]
 }
